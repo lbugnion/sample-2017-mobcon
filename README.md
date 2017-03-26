@@ -5,7 +5,7 @@ My code samples for the Mobcon 2017 conference, Sofia, Bulgaria
 
 You can see the slides and details here:
 
-COMING UP SOON
+http://galasoft.ch/presentations/presentationdetails.cshtml?name=2017006
 
 # Content
 
