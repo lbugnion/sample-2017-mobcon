@@ -1,4 +1,4 @@
-# sample-2017-Mobcon
+# HoloLens 101: First experiences with holographic computing 
 My code samples for the Mobcon 2017 conference, Sofia, Bulgaria
 
 # Presentation details, Slides
